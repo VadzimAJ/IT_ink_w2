@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VadzimAJ/IT_ink_w2/static/css/main.705f02eb.css",
+    "main.js": "/VadzimAJ/IT_ink_w2/static/js/main.2154f455.js",
+    "static/js/787.66cb4309.chunk.js": "/VadzimAJ/IT_ink_w2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/VadzimAJ/IT_ink_w2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/VadzimAJ/IT_ink_w2/index.html",
+    "main.705f02eb.css.map": "/VadzimAJ/IT_ink_w2/static/css/main.705f02eb.css.map",
+    "main.2154f455.js.map": "/VadzimAJ/IT_ink_w2/static/js/main.2154f455.js.map",
+    "787.66cb4309.chunk.js.map": "/VadzimAJ/IT_ink_w2/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.705f02eb.css",
+    "static/js/main.2154f455.js"
+  ]
+}
