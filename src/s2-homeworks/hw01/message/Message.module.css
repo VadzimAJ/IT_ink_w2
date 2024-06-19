@@ -1,6 +1,9 @@
-.message {
+.message{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 28px;
 
 }
+
 
 .imageAndText {
 
@@ -11,7 +14,7 @@
 }
 
 .text {
-
+  
 }
 
 .text:after {
@@ -23,7 +26,8 @@
 }
 
 .messageText {
-
+  font-family: "Montserrat", sans-serif;
+  font-weight: 16px;
 }
 
 .time {
